@@ -4,4 +4,4 @@ $('.pics');
 $('#baby-ninja');
 $('ul li');
 $('div img:first-child');
-$("img[alt=''")
+$("img[alt='the beatles making faces'")
